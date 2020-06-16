@@ -7,7 +7,7 @@ A dog walking app that allows users to be able to log and track statistics of th
 
 #### Home
 
-![Home](Home.png)
+![Home](Home1.png)
 
 #### Sign Up
 
@@ -15,7 +15,7 @@ A dog walking app that allows users to be able to log and track statistics of th
 
 #### Login
 
-![Login](Login.png)
+![Login](Login1.png)
 
 #### Entries
 
